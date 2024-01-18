@@ -13,6 +13,7 @@ Interact with key characters, exploring their roles in the conspiracy through in
 # 3. Aftermath Scene - Rome in Turmoil
 Navigate the aftermath with visually striking scenes depicting the repercussions of historical events.
 Click on landmarks like the Colosseum to uncover post-assassination developments.
+
 # Educational Objectives
 Deliver an immersive learning experience by merging historical narratives with interactive AR elements.
 Deepen understanding of Ancient Rome's political dynamics, societal changes, and pivotal events.
@@ -22,5 +23,10 @@ Utilizes Augmented Reality for an interactive exploration of historical scenes.
 Integrates particle effects to symbolize the dynamic aftermath of significant historical events.
 Incorporates interactive elements, allowing users to click on characters and landmarks for additional information.
 Features a quiz component for reinforcement and knowledge assessment.
+
+# Download link
+https://drive.google.com/drive/u/1/folders/1jtmg_eFTZE1mS8bvRv-Nuwm_xKnaLgHN
+You can download APK here! In this drive there is also AR Image Recognition picture you will need to start the app.
+
 # Conclusion
 The "Ancient Rome AR Exploration" project seamlessly blends education and technology, offering users a unique opportunity to explore Ancient Rome dynamically. Immerse yourself in this interactive AR journey through key moments that shaped the course of history!
